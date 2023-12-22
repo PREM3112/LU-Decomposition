@@ -46,8 +46,9 @@ print(X)
 
 ## Output:
 ![lu decomposition]()
-![ALL](/lu%20decomposition.png)
-![ALL](/lu.png)
+![lu decomposition](https://github.com/PREM3112/LU-Decomposition/assets/145449383/85e488bc-dd08-458f-83ef-d5a2dae64261)
+![lu](https://github.com/PREM3112/LU-Decomposition/assets/145449383/34b7bb7b-1cf9-43c5-93f5-c27c05864a66)
+
 
 
 ## Result:
